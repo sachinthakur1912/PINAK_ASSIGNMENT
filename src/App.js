@@ -7,7 +7,7 @@ import { FaWater } from "react-icons/fa";
 
 const ServiceCard = ({ title, description, icon }) => {
   return (
-    <div className="group w-72 h-80 p-6 bg-white rounded-md shadow-lg transform transition duration-500 hover:rotate-180 hover:shadow-2xl relative flex flex-col gap-8 pt-16">
+    <div className="group w-72 h-80 p-6 bg-white rounded-md shadow-lg transform transition duration-500 hover:rotate-[360deg] hover:shadow-2xl relative flex flex-col gap-8 pt-16">
       <div className="flex justify-center absolute rounded-full w-24 h-24 items-center bg-white -top-10 left-[50%] -translate-x-[50%] border-4 border-purple-900">
         <div className="text-5xl text-purple-700">{icon}</div>
       </div>

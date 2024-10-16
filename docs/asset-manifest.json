@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PINAK_ASSIGNMENT/static/css/main.4c6880d2.css",
-    "main.js": "/PINAK_ASSIGNMENT/static/js/main.bf317439.js",
+    "main.css": "/PINAK_ASSIGNMENT/static/css/main.9de4da5e.css",
+    "main.js": "/PINAK_ASSIGNMENT/static/js/main.cc93863a.js",
     "index.html": "/PINAK_ASSIGNMENT/index.html",
-    "main.4c6880d2.css.map": "/PINAK_ASSIGNMENT/static/css/main.4c6880d2.css.map",
-    "main.bf317439.js.map": "/PINAK_ASSIGNMENT/static/js/main.bf317439.js.map"
+    "main.9de4da5e.css.map": "/PINAK_ASSIGNMENT/static/css/main.9de4da5e.css.map",
+    "main.cc93863a.js.map": "/PINAK_ASSIGNMENT/static/js/main.cc93863a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c6880d2.css",
-    "static/js/main.bf317439.js"
+    "static/css/main.9de4da5e.css",
+    "static/js/main.cc93863a.js"
   ]
 }
